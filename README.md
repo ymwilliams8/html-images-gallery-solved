@@ -29,12 +29,12 @@ This assignment should prove that a student is able to:
 
 ## Standard requirements
 
-- [ ] Fork the project to your github account
-- [ ] Clone the project to your computer
-- [ ] Open the project in VSCode with `code <cloned_repo_folder_name>`
-- [ ] Initialize playwright and install project packages
-  - [ ] Use `npm i` to install packages
-  - [ ] Use `npm run browser-install` to install the browser environment for testing 
+- [x] Fork the project to your github account
+- [x] Clone the project to your computer
+- [x] Open the project in VSCode with `code <cloned_repo_folder_name>`
+- [x] Initialize playwright and install project packages
+  - [x] Use `npm i` to install packages
+  - [x] Use `npm run browser-install` to install the browser environment for testing
 - [ ] All the tasks of the "Specific requirements" section MUST be solved
 - [ ] **The project's file/folder structure should NOT be edited!**
 - [ ] All the tests MUST pass. Fix the errors in case they don't BEFORE you submit (acceptance criteria)
@@ -55,20 +55,20 @@ This assignment should prove that a student is able to:
 
 **For the index.html file:**
 
-- [ ] Connect the scripts.js file
-- [ ] Connect the layout.css file
-- [ ] Connect the images-list.css file
-- [ ] Add the image file path for each gallery item's image
+- [x] Connect the scripts.js file
+- [x] Connect the layout.css file
+- [x] Connect the images-list.css file
+- [x] Add the image file path for each gallery item's image
   - Plants: plant-image.jpg
   - Nature: nature-image.jpg
   - Modern Design: design-image.jpg
   - Space: space-image.jpg
-- [ ] Add the detail page path for each gallery item's "Details" link:
+- [x] Add the detail page path for each gallery item's "Details" link:
   - Plants: plants.html
   - Nature: nature.html
   - Modern Design: modern-design.html
   - Space: space.html
-- [ ] Add the detail page path for each top navigation item:
+- [x] Add the detail page path for each top navigation item:
   - Plants: plants.html
   - Nature: nature.html
   - Modern Design: modern-design.html
